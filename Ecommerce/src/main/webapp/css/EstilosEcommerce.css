@@ -1,0 +1,12 @@
+body{
+	background-image: url(../images/bg_general.jpg);
+	background-repeat: repeat;
+	padding:10px;
+	font: Verdana;
+}
+
+table{
+	font-family: Verdana;
+	font-size:11px;
+	border-spacing: 10px;
+}
